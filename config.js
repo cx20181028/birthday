@@ -11,9 +11,11 @@ var config = {
         "祝你今年成功上岸",
         "祝你往后余生开心",
         "无烦恼",
-        "所念皆星河",
+        "以后~~",
         "所想皆如愿",
-        "YAMI~~",
+        "所念皆星河",
+        "~~YAMI~~",
+        "~~BYE~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -34,9 +36,9 @@ var config = {
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕",
-        light_candle: "蜡烛",
-        wish_message: "生日快乐",
+        cake_fadein: "来个蛋糕",
+        light_candle: "蜡烛点亮",
+        wish_message: "祝你生日快乐",
         story: "A MESSAGE FOR YOU",
     }
 };
