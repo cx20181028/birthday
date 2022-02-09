@@ -9,7 +9,7 @@ var config = {
         "在这里送上我的祝福",
         "祝你生日快乐",
         "祝你今年成功上岸",
-        "祝你往后余生开心",
+        "祝你往后余生开开心心",
         "无烦恼",
         "以后~~",
         "所想皆如愿",
@@ -38,7 +38,7 @@ var config = {
         balloons_flying: "好像少点东西哦",
         cake_fadein: "蛋糕来啦",
         light_candle: "蜡烛点亮啦",
-        wish_message: "祝你生日快乐",
+        wish_message: "来许个愿吧",
         story: "A MESSAGE FOR YOU",
     }
 };
